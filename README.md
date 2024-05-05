@@ -8,7 +8,7 @@
 - Python
 - C++
 
-## Coding Projects
+## Coding Projects (_Python_)
 - Dual timer
 - Excel to Word Automation for letters
 - Web scraper
