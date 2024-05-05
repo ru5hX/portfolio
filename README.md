@@ -2,7 +2,7 @@
 
 ## Education
 - BSc, Computing | UNISA (_November 2023_)								       		
-- LLB, Laws	| Uniersity of Pretoria (_December 2010_)	 			        		
+- LLB, Laws	| University of Pretoria (_December 2010_)	 			        		
 
 ## Languages
 - Python
