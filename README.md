@@ -1,8 +1,11 @@
 # portfolio of R Rautenbach
 
 ### Education
-- Bachelor of Science in Computing | UNISA | 2024 with DISTINCTION
-- Bachelor of Laws | University of Pretoria | 2010
+| Degree / Certificate | Institution| Year| Award |
+|:-------------|:------------------|:------|:------|
+| Bachelor of Science in Computing | UNISA | 2024 | DISTINCTION |
+| Bachelor of Laws | University of Pretoria | 2010 | - |
+ 
 ### Languages
 - Python
 - C++
