@@ -1,7 +1,7 @@
 # Portfolio relating to Computer Science
 
 ## Education
-- BSc, Computing | UNISA (_November 2023_)								       		
+- BSc, Computing | UNISA (_November 2023_)(**DISTINCTION**)
 - LLB, Laws	| University of Pretoria (_December 2010_)
 
 ## Certificates 
