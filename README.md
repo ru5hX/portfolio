@@ -25,14 +25,15 @@
 - 
 
 ## Coding Projects (_Python_)
+____
 - Dual timer
--------------------
-1. ![1](/assets/img/screenshot.100.png?raw=true)
-2. ![2](/../main/assets/img/screenshot.99.png?raw=true)
-![1](/assets/img/screenshot.100.png?raw=true)
-![1](/assets/main/img/screenshot.100.png?raw=true)
-1. ![1](/img/screenshot.100.png?raw=true)
-![1](/main/assets/img/screenshot.100.png?raw=true)
+![1](/img/screenshot.100.png?raw=true)
+____
+
 - Excel to Word Automation for letters
 - Web scraper
+____
 - Youtube Downloader
+![1](/img/screenshot.99.png?raw=true)
+____
+- 
