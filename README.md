@@ -27,6 +27,7 @@
 ## Coding Projects (_Python_)
 ____
 - Dual timer
+
 ![1](/img/screenshot.100.png?raw=true)
 ____
 
