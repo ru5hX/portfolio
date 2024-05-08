@@ -27,8 +27,8 @@
 ## Coding Projects (_Python_)
 - Dual timer
 -------------------
-1. [1](/assets/img/screenshot.100.png)
-2. [2](/../main/assets/images/screenshot.99.png)
+1. ![1](/assets/img/screenshot.100.png)
+2. ![2](/../main/assets/images/screenshot.99.png)
 - Excel to Word Automation for letters
 - Web scraper
 - Youtube Downloader
