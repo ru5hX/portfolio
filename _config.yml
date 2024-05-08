@@ -5,6 +5,10 @@ theme: jekyll-theme-minimal
 description: test what goes here 
 link: https://ru5hx.github.io/portfolio/#work-experience
 
+- title: "Add a profile link"
+   description: "Learn how to create links in Markdown."
+   event: "pull_request.synchronize"
+   link: '{{ https://ru5hx.github.io/portfolio/#work-experience }}'
 #link: https://ru5hx.github.io/portfolio/#work-experience
 #link: https://github.com/ru5hX/portfolio/blob/main/README.md#work-experience
 #- title: Work Experience
