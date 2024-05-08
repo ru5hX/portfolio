@@ -3,4 +3,5 @@ show_downloads: True
 theme: jekyll-theme-minimal
 
 description: test what goes here
-link: https://gitlab.com/ru5hX/portfolio/blob/main/README.md#work-experience
+link: https://github.com/ru5hX/portfolio/blob/main/README.md#work-experience
+link: [Work Experience](https://ru5hx.github.io/portfolio/#work-experience)
