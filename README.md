@@ -28,7 +28,7 @@
 ____
 - Dual timer
 
-![1](/img/screenshot.100.png?raw=true)
+![1](/img/screenshot.100.png)
 ____
 
 - Excel to Word Automation for letters
@@ -36,6 +36,6 @@ ____
 ____
 - Youtube Downloader
 
-![1](/img/screenshot.99.png?raw=true)
+![1](/img/screenshot.99.png)
 ____
 - 
