@@ -28,7 +28,7 @@
 - Dual timer
 -------------------
 1. ![1](/assets/img/screenshot.100.png)
-2. ![2](/../main/assets/images/screenshot.99.png)
+2. ![2](/../main/assets/img/screenshot.99.png)
 - Excel to Word Automation for letters
 - Web scraper
 - Youtube Downloader
