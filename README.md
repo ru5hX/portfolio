@@ -24,7 +24,7 @@
 ### 2. Law
 - 
 
-## Coding Projects (_Python_)
+## Completed Coding Projects (_Python_)
 ____
 - Dual timer
 
@@ -33,8 +33,10 @@ ____
 ____
 
 - Excel to Word Automation for letters
+
 ____
 - Web scraper
+
 ____
 - Youtube Downloader
 
@@ -42,3 +44,4 @@ ____
 
 ____
 
+## Completed Coding Projects (_Python_)
