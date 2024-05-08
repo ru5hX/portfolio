@@ -44,4 +44,4 @@ ____
 
 ____
 
-## Completed Coding Projects (_Python_)
+## Ongoing Coding Projects (_Python_)
