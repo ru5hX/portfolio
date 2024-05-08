@@ -3,7 +3,7 @@ show_downloads: True
 theme: jekyll-theme-minimal
 
 description: test what goes here [Link to My Awesome Project](https://ru5hx.github.io/portfolio/#work-experience)
-link: [Link to My Awesome Project](https://ru5hx.github.io/portfolio/#work-experience)
+link: [Link to My Awesome Project](https://ru5hx.github.io/portfolio/#work-experience) 
 
 #link: https://ru5hx.github.io/portfolio/#work-experience
 #link: https://github.com/ru5hX/portfolio/blob/main/README.md#work-experience
