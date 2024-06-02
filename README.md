@@ -1,47 +1,66 @@
-# Portfolio relating to Computer Science
+# Portfolio mainly relating to Computer Science
 
 ## Education
-- BSc, Computing | UNISA (_November 2023_)(**DISTINCTION**)
-- LLB, Laws	| University of Pretoria (_December 2010_)
+- Bachelor of Science in Computing | UNISA (_Graduation May 2024_)(**DISTINCTION**)
+- Bachelor of Laws | University of Pretoria (_Graduation June 2011_)
 
 ## Certificates 
-- Right of Appearance in the High Court
-- Practice Management
-- 
+- CompTIA A+ and CompTIA Network+ (2016)
 
 ## Technical Skills
 ### 1. Computer Science
 - Python
 - C++
+- Three.js
 
-### 2. Law
-- 
-
-## Work Experience
+## Work Experience 
 ### 1. Computer Science
 - N/A, graduation on 30 May 2024 with _DISTINCTION_
 
 ### 2. Law
-- 
+- Practicing as an attorney since 2013.
 
 ## Completed Coding Projects (_Python_)
 ____
-- Dual timer
+- ### Dual timer
 
-![1](/img/screenshot.100.png)
-
-____
-
-- Excel to Word Automation for letters
+  ![1](/img/screenshot.100.png)
 
 ____
-- Web scraper
+
+- ### Excel to Word Automation  (no gui)
+  For letter of demands, notices and summonses
 
 ____
-- Youtube Downloader
+- ### Web scraper (no gui)
+
+____
+- ### Recipe Checker
+
+![1](/img/screenshot.109.png)
+____
+- ### Youtube Video Downloader
 
 ![1](/img/screenshot.99.png)
 
 ____
+- ### Youtube to Mp3 -------------------------
+
+  ![1](/img/screenshot.110.png)
+
+____
+- ### Simple Fuel Cost Calculator
+
+  ![1](/img/screenshot.108.png)
 
 ## Ongoing Coding Projects (_Python_)
+
+____
+- ### Virtual Voice Assistant (no gui)
+
+## Coding Projects on Hold (_Python_)
+
+____
+- ### Client intake and Document Automation
+
+  ![1](/img/screenshot.111.png)
