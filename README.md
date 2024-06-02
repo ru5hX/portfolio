@@ -1,5 +1,6 @@
 # Portfolio mainly relating to Computer Science
 ### Technical Skills: Python, SQL, C++, Three.js
+
 ## Education
 - Bachelor of Science in Computing | UNISA (_Graduation May 2024_)(**DISTINCTION**)
 - Bachelor of Laws | University of Pretoria (_Graduation June 2011_)
@@ -13,6 +14,7 @@
 
 ### 2. Law
 - Practicing as an attorney since 2013.
+
 
 ## Completed Coding Projects (_Python_)
 ____
@@ -48,14 +50,16 @@ ____
 
   ![1](/img/screenshot.108.png)
 
+
 ## Ongoing Coding Projects (_Python_)
 
 ____
 - ### Virtual Voice Assistant (no gui)
 
+
 ## Coding Projects on Hold (_Python_)
 
 ____
-- ### Client intake and Document Automation
+- ### Client Intake and Document Automation
 
   ![1](/img/screenshot.111.png)
