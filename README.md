@@ -1,17 +1,11 @@
 # Portfolio mainly relating to Computer Science
-
+### Technical Skills: Python, SQL, C++, Three.js
 ## Education
 - Bachelor of Science in Computing | UNISA (_Graduation May 2024_)(**DISTINCTION**)
 - Bachelor of Laws | University of Pretoria (_Graduation June 2011_)
 
 ## Certificates 
 - CompTIA A+ and CompTIA Network+ (2016)
-
-## Technical Skills
-### 1. Computer Science
-- Python
-- C++
-- Three.js
 
 ## Work Experience 
 ### 1. Computer Science
